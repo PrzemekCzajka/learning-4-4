@@ -1,0 +1,1 @@
+Kalkulator umożliwiający wykonywanie podstawowych działań: Dodawania, odejmowania, mnożenie i dzielenia.
