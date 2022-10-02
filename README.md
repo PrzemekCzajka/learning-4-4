@@ -2,7 +2,7 @@ Kalkulator umożliwiający wykonywanie podstawowych działań: Dodawania, odejmo
 
 Wybieramy rodzaj działania wpisując odpowiednią liczbę przypisaną działaniu.
 
-Zastosowałem kilka rozwiązań przy obliczaniu działań oraz przy wyświetlaniu wyników. 
+Zastosowałem kilka rozwiązań przy obliczaniu działań oraz przy wyświetlaniu wyników. Zaokrągliłem wynik do 2 miejsc po przecinku.
 
 Definicję dzielenia zaimportowałem ze stworzonego przez siebie pliku zewnętrznego del_func.py
 
